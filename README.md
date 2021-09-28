@@ -4,4 +4,4 @@ Hello and welcome to my profile. My development journey started by wanting to ge
 
 I am currently enrolled at Sydney University Web Development Bootcamp and have gained experience in HTML, CSS, Node.js and Javascript.
 
-<center>[![Nems' GitHub stats](https://github-readme-stats.vercel.app/api?username=nem-ajvaz)](https://github.com/nem-Ajvaz/github-readme-stats)</center>
+[![Nems' GitHub stats](https://github-readme-stats.vercel.app/api?username=nem-ajvaz)](https://github.com/nem-Ajvaz/github-readme-stats)
