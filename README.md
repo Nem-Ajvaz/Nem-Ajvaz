@@ -32,6 +32,17 @@ I am currently enrolled at Sydney University Web Development Bootcamp and have g
 <br>
 <br>
 
+## If you're interested to see what I have worked on please click on my portfolio below.
+
+<a href="https://nem-ajvaz.github.io/React-Portfolio/">
+         <img alt="Portfolio" src="https://user-images.githubusercontent.com/45509371/138623304-c4b625fc-27cf-4454-a1b3-d05e8f4d7e89.gif"
+         width=150" height="70">
+      </a>
+                               
+                               
+                               ![React Portfolio](https://user-images.githubusercontent.com/45509371/138623304-c4b625fc-27cf-4454-a1b3-d05e8f4d7e89.gif)
+
+
 ## Reach Out!
 <br>
 
