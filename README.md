@@ -10,5 +10,6 @@ I am currently enrolled at Sydney University Web Development Bootcamp and have g
    <img src="https://github-readme-stats.vercel.app/api?username=nem-ajvaz" alt="Nems' GitHub stats">
 </p>
 
-             
-             [![Nems' GitHub stats]( )](https://github.com/nem-Ajvaz/github-readme-stats)
+<p align="center">
+   Some of the technologies I have used:
+</p>
