@@ -28,3 +28,14 @@ I am currently enrolled at Sydney University Web Development Bootcamp and have g
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50"/>
 </p>
+
+<br>
+<br>
+
+## Reach Out!
+<br>
+
+<ul>
+ <li>Email: nemanja.ajvaz@protonmail.com
+ <li>Mobile: 0415 411 879</li> 
+</ul>
