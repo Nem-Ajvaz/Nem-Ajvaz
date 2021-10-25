@@ -7,5 +7,8 @@ My development journey started by wanting to get a job as a Scrum Master. I pass
 I am currently enrolled at Sydney University Web Development Bootcamp and have gained experience in HTML, CSS, Node.js and Javascript.
 
 <p align="center">
-  [![Nems' GitHub stats](https://github-readme-stats.vercel.app/api?username=nem-ajvaz)](https://github.com/nem-Ajvaz/github-readme-stats)
+   <img src="https://github-readme-stats.vercel.app/api?username=nem-ajvaz" alt="Nems' GitHub stats">
 </p>
+
+             
+             [![Nems' GitHub stats]( )](https://github.com/nem-Ajvaz/github-readme-stats)
